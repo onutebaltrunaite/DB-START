@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.status {
+    font-weight: normal;
+    background-color: rgb(135, 177, 135);
+    padding: 10px;
+    text-align: center;
+}
+.card {
+    width: 45%;
+}
